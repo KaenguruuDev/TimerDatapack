@@ -1,0 +1,3 @@
+tellraw @s [{"text":"[Timer]: ","color":"gold"},{"text":"There are two timer directions","color":"gray"}]
+tellraw @s [{"text":"[Upwards]","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"One global timer for every player"}]},"click_event":{"action":"run_command","command":"/scoreboard players set #timer_type data 1"}},{"text":"[Private]","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Personal timer for every player"}]},"click_event":{"action":"run_command","command":"/scoreboard players set #timer_type data 0"}}]
+scoreboard players reset @s TimerType
