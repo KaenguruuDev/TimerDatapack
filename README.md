@@ -2,9 +2,9 @@
 
 *Timers for everything and everyone*
 
-**[[1.21.8]](https://github.com/KaenguruuDev/TimerDatapack/releases/tag/1.21.8)**
+**[[1.21.8]](https://github.com/KaenguruuDev/TimerDatapack/releases/tag/v1.21.8)**
 
-**[[1.18.1]](https://github.com/KaenguruuDev/TimerDatapack/releases/tag/1.18.1)**
+**[[1.18.1]](https://github.com/KaenguruuDev/TimerDatapack/releases/tag/v1.18.1)**
 
 ---
 ## DE
