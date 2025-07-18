@@ -20,9 +20,6 @@ scoreboard objectives add timer_w dummy
 scoreboard objectives add timer.death deathCount
 scoreboard objectives add timer.win minecraft.killed:minecraft.ender_dragon
 
-#Game Rules
-gamerule sendCommandFeedback false
-
 
 
 scoreboard players add #timer_reset_on_death data 0
