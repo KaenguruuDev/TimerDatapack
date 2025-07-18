@@ -1,0 +1,9 @@
+{
+
+	"values": [
+			"file:cmds",
+			"file:timer_engine/scores",
+			"file:timer_engine/display",
+			"file:scoreboards"
+	]
+}
